@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akats\\Desktop\\platzi\\platzi.csproj": {}
+    "C:\\Users\\Akats\\Desktop\\platzi\\Introduccion_c-\\platzi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akats\\Desktop\\platzi\\platzi.csproj": {
+    "C:\\Users\\Akats\\Desktop\\platzi\\Introduccion_c-\\platzi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akats\\Desktop\\platzi\\platzi.csproj",
+        "projectUniqueName": "C:\\Users\\Akats\\Desktop\\platzi\\Introduccion_c-\\platzi.csproj",
         "projectName": "platzi",
-        "projectPath": "C:\\Users\\Akats\\Desktop\\platzi\\platzi.csproj",
+        "projectPath": "C:\\Users\\Akats\\Desktop\\platzi\\Introduccion_c-\\platzi.csproj",
         "packagesPath": "C:\\Users\\Akats\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akats\\Desktop\\platzi\\obj\\",
+        "outputPath": "C:\\Users\\Akats\\Desktop\\platzi\\Introduccion_c-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akats\\AppData\\Roaming\\NuGet\\NuGet.Config"
